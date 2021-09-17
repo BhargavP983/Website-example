@@ -9,5 +9,3 @@ messageIcon.addEventListener("click", () => {
 close.addEventListener("click", () => {
   messageEl.classList.remove("active");
 });
-
-youtubeLink.setAttribute("href", "https://youtu.be/_HTL0XSMcRQ");
